@@ -2,7 +2,7 @@ div {
     width: 360px;
     border-width: 1px 2px;
     border-style: solid;
-    padding: 15px;
+    padding: 20px 15px;
     font-size: larger;
 }
 
@@ -16,4 +16,8 @@ div:first-of-type {
 
 div:last-of-type {
     border-bottom: none;
+}
+
+h1 {
+    margin: 20px 5px;
 }
